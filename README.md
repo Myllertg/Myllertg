@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Olá, sou Myller  
+🔹 Profissional com formação em Ciência da Computação e pós-graduação em Gestão de Projetos.  
+🔹 Experiência consolidada no setor bancário como gerente geral.  
+🔹 Retornando para a área de TI, focado em desenvolvimento e análise de dados.  
 
-<!--
-**Myllertg/Myllertg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Habilidades  
+✔ Python 🐍  
+✔ SQL 🗄️  
+✔ Análise de Dados 📊  
+✔ Automação de Processos ⚙️  
 
-Here are some ideas to get you started:
+### 🚀 Objetivos  
+Atualmente aprimorando conhecimentos em tecnologia para atuar em desenvolvimento de software, análise de dados ou áreas correlatas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 **Entre em contato**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Myller%20Teixeira-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/myllertg/)  
+📧 [myller.teixeira@gmail.com](mailto:myller.teixeira@gmail.com)  
