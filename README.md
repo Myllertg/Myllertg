@@ -5,17 +5,17 @@
 🎓 Bacharel em Ciência da Computação  
 📚 Pós-graduado em Gestão de Projetos  
 🏦 Ex-Gerente Geral no setor bancário  
-💻 Retornando para a área de TI com foco em Desenvolvimento e Ciência de Dados  
+💻 Profissional em transição estratégica para Desenvolvimento e Ciência de Dados  
 
 ---
 
 ## 🚀 Sobre mim  
 
-Sou profissional com sólida base técnica em tecnologia e forte experiência em gestão, tomada de decisão e análise estratégica adquirida no setor bancário.  
+Tenho sólida formação em tecnologia e experiência consolidada em gestão e tomada de decisão no setor bancário.  
 
-Atualmente estou focado no aprofundamento em **desenvolvimento de software e análise de dados**, aplicando estatística, modelagem e programação para resolver problemas reais de negócio.
+Atualmente estou direcionando minha carreira para **Desenvolvimento de Software e Análise de Dados**, unindo visão de negócio, raciocínio analítico e habilidades técnicas para gerar impacto real através da tecnologia.
 
-Minha transição para TI não é um recomeço, mas uma evolução: uno visão de negócio + capacidade analítica + habilidades técnicas.
+Minha experiência anterior me permite enxergar dados além do código — como ferramenta estratégica para decisões.
 
 ---
 
@@ -25,24 +25,27 @@ Minha transição para TI não é um recomeço, mas uma evolução: uno visão d
 - Python  
 - SQL  
 - Manipulação de dados com Pandas  
-- Consultas e modelagem relacional  
+- Modelagem relacional  
 
-### 📊 Dados & Estatística  
+### 📊 Dados & Business Intelligence  
 - Estatística descritiva e inferencial  
 - Regressão  
 - Análise exploratória de dados (EDA)  
-- Interpretação de métricas e indicadores  
+- Construção de dashboards no **Power BI**  
+- Modelagem de dados no Power BI  
+- DAX básico/intermediário  
+- Transformação de dados com Power Query  
 
 ### ⚙️ Ferramentas  
 - Git & GitHub  
-- Google Sheets / Excel para análise  
 - Jupyter Notebook  
+- Excel e Google Sheets para análise de dados  
 
 ---
 
 ## 📈 Objetivo Profissional  
 
-Atuar como Desenvolvedor ou Analista/Cientista de Dados, aplicando tecnologia para gerar impacto real em negócios e decisões estratégicas.
+Atuar como Desenvolvedor ou Analista/Cientista de Dados, aplicando programação, estatística e Business Intelligence para transformar dados em decisões estratégicas.
 
 ---
 
