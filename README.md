@@ -4,48 +4,51 @@
 
 🎓 Bacharel em Ciência da Computação  
 📚 Pós-graduado em Gestão de Projetos  
-🏦 Ex-Gerente Geral no setor bancário  
-💻 Profissional em transição estratégica para Desenvolvimento e Ciência de Dados  
+🏦 Experiência sólida no setor bancário como gerente geral  
+📊 Focado em Análise e Ciência de Dados  
 
 ---
 
 ## 🚀 Sobre mim  
 
-Tenho sólida formação em tecnologia e experiência consolidada em gestão e tomada de decisão no setor bancário.  
+Sou profissional com forte base analítica e experiência prática em tomada de decisão estratégica no setor financeiro.  
 
-Atualmente estou direcionando minha carreira para **Desenvolvimento de Software e Análise de Dados**, unindo visão de negócio, raciocínio analítico e habilidades técnicas para gerar impacto real através da tecnologia.
+Atualmente direciono minha carreira para **Análise de Dados e Ciência de Dados**, aplicando estatística, programação e Business Intelligence para transformar dados em insights que apoiam decisões de negócio.
 
-Minha experiência anterior me permite enxergar dados além do código — como ferramenta estratégica para decisões.
+Uno visão estratégica, experiência corporativa e habilidades técnicas para extrair valor real dos dados.
 
 ---
 
 ## 🛠️ Habilidades Técnicas  
 
-### 💻 Linguagens & Banco de Dados  
-- Python  
-- SQL  
-- Manipulação de dados com Pandas  
-- Modelagem relacional  
+### 📌 Linguagens & Dados  
+- Python (Pandas, análise e manipulação de dados)  
+- SQL (consultas, joins, agregações, modelagem relacional)  
 
-### 📊 Dados & Business Intelligence  
-- Estatística descritiva e inferencial  
+### 📊 Estatística & Análise  
+- Estatística descritiva  
+- Estatística inferencial  
 - Regressão  
 - Análise exploratória de dados (EDA)  
-- Construção de dashboards no **Power BI**  
-- Modelagem de dados no Power BI  
-- DAX básico/intermediário  
-- Transformação de dados com Power Query  
+- Interpretação de métricas e indicadores  
+
+### 📈 Business Intelligence  
+- Power BI  
+- Modelagem de dados  
+- Criação de dashboards estratégicos  
+- DAX (básico/intermediário)  
+- Power Query (ETL e transformação de dados)  
 
 ### ⚙️ Ferramentas  
 - Git & GitHub  
 - Jupyter Notebook  
-- Excel e Google Sheets para análise de dados  
+- Excel e Google Sheets para análise  
 
 ---
 
-## 📈 Objetivo Profissional  
+## 🎯 Objetivo Profissional  
 
-Atuar como Desenvolvedor ou Analista/Cientista de Dados, aplicando programação, estatística e Business Intelligence para transformar dados em decisões estratégicas.
+Atuar como **Analista de Dados ou Cientista de Dados**, utilizando análise estatística, programação e BI para gerar insights estratégicos e apoiar decisões orientadas por dados.
 
 ---
 
